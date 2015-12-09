@@ -1,0 +1,17 @@
+{
+  "name": "express-react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rusil G. Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "react": "^0.14.3",
+    "react-redux": "^4.0.0",
+    "redux": "^3.0.4"
+  }
+}
